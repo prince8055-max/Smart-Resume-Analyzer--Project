@@ -241,7 +241,7 @@ with st.sidebar:
 # Main page
 # --------------------------------------------------------------------------- #
 st.title("📄 Smart Resume Analyzer")
-st.caption("AI-powered resume-to-job-description matching using Gemini 3.8 Flash")
+st.caption("AI-powered resume-to-job-description matching using Gemini-3.5-Flash")
 
 left, right = st.columns(2, gap="large")
 
